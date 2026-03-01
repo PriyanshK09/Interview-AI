@@ -1,0 +1,7 @@
+{
+  "name": "Live AI Interviewer",
+  "description": "A real-time AI-powered interview simulator using Gemini Live API for realistic practice sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
